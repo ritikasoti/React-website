@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import './Navbar.css'
 import newlogo from '../../assets/newlogo.png'
+import menu_icon from '../../assets/menu.png'
  
 
 const Navbar = () => {
