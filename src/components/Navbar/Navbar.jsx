@@ -25,7 +25,7 @@ const Navbar = () => {
             <li><button className='btn'>Contact us</button></li>
         </ul>
 
-
+<img src={menu_icon} alt='' className='menu-icon' />
     </nav>
   )
 }
